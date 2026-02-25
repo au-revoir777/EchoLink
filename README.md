@@ -14,6 +14,35 @@ The project is split into:
 - `frontend/` → React + Vite + Zustand + Tailwind/DaisyUI
 - `backend/` → Express + MongoDB (Mongoose) + Socket.IO
 
+<p align="center">
+  <img src="assets/Picture1.png" width="800">
+</p>
+<p align="center">
+  <img src="assets/Picture2.png" width="800">
+</p>
+<p align="center">
+  <img src="assets/Picture3.png" width="800">
+</p>
+<p align="center">
+  <img src="assets/Picture4.png" width="800">
+</p>
+<p align="center">
+  <img src="assets/Picture5.png" width="800">
+</p>
+<p align="center">
+  <img src="assets/Picture6.png" width="800">
+</p>
+<p align="center">
+  <img src="assets/Picture7.png" width="800">
+</p>
+<p align="center">
+  <img src="assets/Picture8.png" width="800">
+</p>
+<p align="center">
+  <img src="assets/Picture9.png" width="800">
+</p>
+
+
 ## Tech Stack
 
 ### Frontend
