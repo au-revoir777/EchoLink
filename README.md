@@ -33,7 +33,7 @@ The project is split into:
   <img src="assets/Picture6.png" width="800">
 </p>
 <p align="center">
-  <img src="assets/Picture7.png" width="800">
+  <img src="assets/Picture7.png">
 </p>
 <p align="center">
   <img src="assets/Picture8.png" width="800">
